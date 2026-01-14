@@ -1,8 +1,10 @@
 ---
-title: Hey, I'm Jane Doe!
-description: this is meta description
-image: "@assets/profile/jane-doe.jpg"
+title: O projekcie
+description: Informacje o projekcie
+image: "@assets/about.webp"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+	Gra farmersko-ekonomiczna 2D RPG. Do dyspozycji otrzymujemy głównego bohatera prowadzonego przez przewodnika - kurczaka Stefana, ostatniego bywalca opuszczonej farmy. Naszym zadaniem jest odbudować farmę i zdominować rynek produkcji rolniczej, zaczynając przygodę od kilku grządek i garstki nasion.
+	Za pieniądze pozyskane z produkcji rolnej kupujemy ulepszenia, stawiamy nowe budynki, wprowadzamy maszyny rolnicze i ozdoby. Gra typu chill and vibe. Dla ludzi szukających odprężenia po ciężkim dniu w pracy.
+

@@ -5,6 +5,7 @@ import { glob } from "astro/loaders";
 // When updating the set of searchable collections, update collectionList in /src/pages/search.astro
 
 const searchable = z.object({
+  id: z.number().optional(),
   title: z.string(),
   description: z.string().optional(),
   autodescription: z.boolean().default(true),
