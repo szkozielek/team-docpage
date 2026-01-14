@@ -1,4 +1,4 @@
 ---
-title: Authors
-description: this is meta description
+title: Zespół
+description: osoby odpowiedzialne za powstanie projektu
 ---

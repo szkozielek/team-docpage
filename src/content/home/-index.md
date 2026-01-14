@@ -1,9 +1,9 @@
 ---
-image: "@assets/astrogon-star.svg"
-imageAlt: Astrogon logo
-title: Astrogon
-content: A rapidly-customizable template for a blog, documentation, and more.
+image: "@assets/along-the-farm-logo.png"
+imageAlt: Along the Farm logo
+title: Along the Farm
+content: Gra farmersko-ekonomiczna 2D oparta na silniku Godot. Projekt na przedmiot "Programowanie zespołowe"
 button:
-  label: See the Code
-  link: https://github.com/astrogon/astrogon
+  label: Zobacz kod
+  link: https://github.com/ProgramowanieZespolowe2026/farm
 ---
