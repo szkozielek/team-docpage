@@ -3,10 +3,10 @@ id: 4
 title: Marek Rochal
 email: janedoe@email.com
 image: "@assets/profile/marek-rochal.png"
-social:
+# social:
   # github: "https://github.com/"
   # linkedIn: "https://www.linkedin.com/"
-  email: "janedoe@mat.umk.pl"
+  # email: "janedoe@mat.umk.pl"
 ---
 
 Programista
