@@ -57,9 +57,7 @@ await Promise.all(
 ---
 
 {
-  isGroup ? (
-    <CollectionLayout collectionIndex={entry} entries={groupEntries} />
-  ) : (
+  (
     <EntryLayout entry={entry} browserMenu={browserMenu} />
   )
 }

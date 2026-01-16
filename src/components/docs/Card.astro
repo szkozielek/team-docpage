@@ -5,7 +5,7 @@ import { Image } from "astro:assets";
 interface Props {
   entry: DocsEntry;
 }
-
+const base = '/nsi2025/nsi02/'
 const { entry } = Astro.props;
 const { title, image, imageAlt } = entry.data;
 ---
@@ -16,7 +16,7 @@ const { title, image, imageAlt } = entry.data;
   <div class="glass h-full rounded-lg">
     <a
       class="group hover:opacity-100"
-      href={`/docs/${entry.id.replace("/-index", "")}`}
+      href={`${base}docs/${entry.id.replace("/-index", "")}`}
     >
       <div class="relative rounded-lg pb-9/16 overflow-hidden">
         {
@@ -32,7 +32,7 @@ const { title, image, imageAlt } = entry.data;
           )
         }
         <div
-          class="glass-t absolute text-center rounded-lg px-2 py-1 top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%]"
+          class="glass absolute text-center rounded-lg px-2 py-1 top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%]"
         >
           <h4 class="">
             {title}

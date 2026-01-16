@@ -3,22 +3,25 @@ import { lowerHumanize } from "@lib/textConverter";
 
 const { className }: { className?: string } = Astro.props;
 
-const paths = Astro.url.pathname.split("/").filter((x) => x);
+const base = '/nsi2025/nsi02/';
+const baseSegments = base.split("/").filter(Boolean).length;
+
+const paths = Astro.url.pathname.split("/").filter((x) => x).slice(baseSegments);
 let parts = [
   {
     label: "Start",
-    href: "/",
+    href: base,
     "aria-label": Astro.url.pathname === "/" ? "page" : undefined,
   },
 ];
 
 paths.forEach((label: string, i: number) => {
-  const href = `/${paths.slice(0, i + 1).join("/")}`;
+  const href = `${base}${paths.slice(0, i + 1).join("/")}/`;
   const translations : Record<string, string> = {
     'authors': 'zespół',
     'about': 'o-projekcie',
     'home': 'start',
-    'docs': 'harmonogram-prac'
+    'docs': 'dokumentacja'
   };
   if (translations[label]) {
     label = translations[label];

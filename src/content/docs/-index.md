@@ -1,5 +1,5 @@
 ---
-title: Documentation
-description: This is the docs
+title: Dokumentacja projektu
+description: Dokumetacja projektu
 draft: false
 ---
