@@ -1,4 +1,4 @@
 ---
 title: Zespół
-description: osoby odpowiedzialne za powstanie projektu
+description: Opiekun zespołu - dr Marta Burzańska
 ---

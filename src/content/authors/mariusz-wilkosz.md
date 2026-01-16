@@ -1,12 +1,12 @@
 ---
 id: 1
 title: Mariusz Wilkosz
-email: janedoe@email.com
+email: allator@mat.umk.pl
 image: "@assets/profile/mariusz-wilkosz.png"
-# social:
+social:
   # github: "https://github.com/"
   # linkedIn: "https://www.linkedin.com/"
-  # email: "janedoe@mat.umk.pl"
+  email: "allator@mat.umk.pl"
 ---
 
 Pomysłodawca i lider zespołu. Programista Godot i level-designer
