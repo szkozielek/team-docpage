@@ -6,7 +6,7 @@ interface Props {
   menu: MenuItem[];
   currentPage: string;
 }
-
+const base = '/nsi2025/nsi02/';
 const { menu, currentPage } = Astro.props;
 ---
 
@@ -19,7 +19,7 @@ const { menu, currentPage } = Astro.props;
           {menu.map((item) => (
             <li class="ml-0">
               <a
-                href={`/docs/${item.id}`}
+                href={`${base}docs/${item.id}`}
                 class={`w-full leading-none no-underline ${item.id === currentPage ? "font-bold" : ""}`}
               >
                 {item.title}
@@ -29,7 +29,7 @@ const { menu, currentPage } = Astro.props;
                   {item.children.map((child) => (
                     <li class="ml-4">
                       <a
-                        href={`/docs/${child.id}`}
+                        href={`${base}docs/${child.id}`}
                         class={`w-full leading-none no-underline ${child.id === currentPage ? "font-bold" : ""}`}
                       >
                         {child.title}

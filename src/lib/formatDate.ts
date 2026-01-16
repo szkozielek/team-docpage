@@ -1,5 +1,5 @@
 import { format as formatFn } from "date-fns-tz";
-import { pl } from "date-fns/locale";
+import { pl } from 'date-fns/locale/index.js';
 
 export const formatDate = (
   date: Date | string,
