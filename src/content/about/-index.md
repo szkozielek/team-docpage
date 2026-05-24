@@ -11,7 +11,7 @@ Gra farmersko-ekonomiczna 2D RPG skupiona na spokojnym rozwoju i budowaniu włas
 
 ![Gra](@assets/about/startGame.png)
 
-Całość utrzymana jest w klimacie „chill and vibe” — gra została zaprojektowana z myślą o osobach szukających odprężenia po intensywnym dniu. Bez presji, w swoim tempie, możesz rozwijać farmę, eksperymentować z strategiami i po prostu cieszyć się spokojną atmosferą.
+Całość utrzymana jest w klimacie „chill and vibe” — gra została zaprojektowana z myślą o osobach szukających odprężenia po intensywnym dniu. Bez presji, w swoim tempie, możesz rozwijać farmę, eksperymentować ze strategiami i po prostu cieszyć się spokojną atmosferą.
 
 ### Wydarzenia
 
