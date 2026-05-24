@@ -1,12 +1,12 @@
 ---
 id: 3
 title: Filip Jarocki
-email: jaros@mat.umk.pl
+email: filip.jarocki@wp.pl
 image: "@assets/profile/filip-jarocki.png"
 social:
-  # github: "https://github.com/"
-  # linkedIn: "https://www.linkedin.com/"
-  email: "jaros@mat.umk.pl"
+  github: "https://github.com/Jaros-777"
+  linkedIn: "https://www.linkedin.com/in/filip-jarocki777/"
+  email: "filip.jarocki@wp.pl"
 ---
 
 Programista Godot i level-designer

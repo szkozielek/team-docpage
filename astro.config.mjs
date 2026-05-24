@@ -10,10 +10,10 @@ import rehypeKatex from "rehype-katex";
 import remarkMath from "remark-math";
 
 export default defineConfig({
-  site: "https://aleks-2.mat.umk.pl",
-  base: "/nsi2025/nsi02/",
+  site: "https://alongthefarm.netlify.app",
+  //base: "/nsi2025/nsi02/",
   output: "static",
-  trailingSlash: "always", // stabilne pod Apache w subkatalogach
+  trailingSlash: "ignore", // stabilne pod Apache w subkatalogach
   prefetch: {
     prefetchAll: true,
   },

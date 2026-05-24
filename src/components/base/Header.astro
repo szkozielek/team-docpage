@@ -3,7 +3,7 @@ import ThemeSwitcher from "@components/base/ThemeSwitcher.astro";
 import { IoSearch } from "react-icons/io5";
 
 const { pathname } = Astro.url;
-const base = '/nsi2025/nsi02/';
+const base = '/';
 
 const stickyHeader = true;
 
@@ -78,7 +78,7 @@ const menu = [
         menu.map((item) => (
           <li class="">
             <a
-              href={`${base}${item.url.replace(/^\/+/, "")}/`}
+              <a href={item.url === "" ? "/" : `${base}${item.url.replace(/^\/+/, "")}/`}
               class={`block p-2 font-secondary font-semibold text-txt-p transition dark:text-darkmode-txt-p lg:px-2 lg:py-3 ${
                 (pathname === `${base}${item.url}` || pathname === item.url) &&
                 "active"
