@@ -9,4 +9,4 @@ social:
   email: "allator@mat.umk.pl"
 ---
 
-Pomysłodawca i lider zespołu. Programista Godot i level-designer
+Pomysłodawca i lider zespołu. Programista Godot i 2d artist
