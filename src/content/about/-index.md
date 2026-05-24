@@ -5,13 +5,13 @@ image: "@assets/about/menulogo.png"
 draft: false
 ---
 
-Gra farmersko-ekonomiczna 2D RPG skupiona na spokojnym rozwoju i budowaniu własnego ekosystemu gospodarstwa.Gra farmersko-ekonomiczna 2D RPG skupiona na spokojnym rozwoju i budowaniu własnej historii na opuszczonej farmie. Zaczynasz od niewielkiego skrawka ziemi, kilku grządek oraz podstawowych nasion. Z czasem przekształcasz zaniedbany teren w tętniące życiem gospodarstwo, podejmując decyzje, które wpływają na jego wygląd i rentowność.
+Gra farmersko-ekonomiczna 2D RPG skupiona na spokojnym rozwoju i budowaniu własnego ekosystemu gospodarstwa. Gra farmersko-ekonomiczna 2D RPG skupiona na spokojnym rozwoju i budowaniu własnej historii na opuszczonej farmie. Zaczynasz od niewielkiego skrawka ziemi, kilku grządek oraz podstawowych nasion. Z czasem przekształcasz zaniedbany teren w tętniące życiem gospodarstwo, podejmując decyzje, które wpływają na jego wygląd i rentowność.
 
 ### Relaks
 
 ![Gra](@assets/about/startGame.png)
 
-Całość utrzymana jest w klimacie „chill and vibe” — gra została zaprojektowana z myślą o osobach szukających odprężenia po intensywnym dniu. Bez presji, w swoim tempie, możesz rozwijać farmę, eksperymentować z strategiami i po prostu cieszyć się spokojną atmosferą.
+Całość utrzymana jest w klimacie „chill and vibe” — gra została zaprojektowana z myślą o osobach szukających odprężenia po intensywnym dniu. Bez presji, w swoim tempie, możesz rozwijać farmę, eksperymentować ze strategiami i po prostu cieszyć się spokojną atmosferą.
 
 ### Wydarzenia
 
