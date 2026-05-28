@@ -34,6 +34,11 @@ const about = defineCollection({
     }),
 });
 
+const readme = defineCollection({
+  loader: glob({ pattern: "-index.{md,mdx}", base: "./src/content/readme" }),
+  schema: searchable,
+});
+
 const authors = defineCollection({
   loader: glob({
     pattern: "**\/[^_]*.{md,mdx}",
@@ -166,6 +171,7 @@ const terms = defineCollection({
 // Export collections
 export const collections = {
   about,
+  readme,
   authors,
   blog,
   docs,
