@@ -1,0 +1,9 @@
+---
+import type { ReadmeEntry } from "@/types";
+import EntryLayout from "@components/readme/EntryLayout.astro";
+import { getIndex } from "@lib/contentParser";
+
+const entry = (await getIndex("readme")) as ReadmeEntry;
+---
+
+<EntryLayout entry={entry} />
