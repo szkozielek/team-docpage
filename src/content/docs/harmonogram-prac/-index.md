@@ -27,6 +27,11 @@ modDate: 2026-05-23
     - mechanizm wybierania pól,
     - obsługa stanów elementów w grze,
     - crafting w grze.
+- **23.05.2026**:
+    - omówienie efektów końcowych,
+    - przygotowanie do prezentacji.
+- **27.05,2026**
+    - próba przed prezentajcą projektu.
 
 ## Prace
 
@@ -66,4 +71,6 @@ modDate: 2026-05-23
     - Mechanizm stawiania budynków,
     - Losowe zdarzenia wpływające na ceny w sklepie,
     - Poprawa grafik zwięrząt i produktów odzwierzęcych,
-    - Poprawienie błędu przy stawianiu budynków w niedozwolonym miejscu.
+    - Poprawienie błędu przy stawianiu budynków w niedozwolonym miejscu,
+    - Mechanika sadzenia i wzrostu drzew owocowych,
+    - Prace koncepcyjne dotyczace dalszego rozwoju gry.
