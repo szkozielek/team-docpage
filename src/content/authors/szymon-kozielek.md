@@ -9,4 +9,4 @@ social:
   email: "szkozielek@mat.umk.pl"
 ---
 
-Programista
+Projektant strony internetowej

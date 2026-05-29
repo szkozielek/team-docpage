@@ -9,4 +9,4 @@ social:
   email: "markross89@mat.umk.pl"
 ---
 
-Programista
+Programista, reżyser dźwięku

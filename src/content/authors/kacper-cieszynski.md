@@ -9,4 +9,4 @@ social:
   email: "kacpercieszynski@mat.umk.pl"
 ---
 
-Programista
+Programista, projektant interfejsu

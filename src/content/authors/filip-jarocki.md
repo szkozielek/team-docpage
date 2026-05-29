@@ -9,4 +9,4 @@ social:
   email: "filip.jarocki@wp.pl"
 ---
 
-Programista Godot i level-designer
+Programista Godot, projektant poziomów
