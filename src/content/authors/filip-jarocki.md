@@ -9,4 +9,4 @@ social:
   email: "jaros@mat.umk.pl"
 ---
 
-Programista Godot i level-designer
+Programista Godot, projektant poziomów
